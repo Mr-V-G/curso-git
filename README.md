@@ -1,4 +1,4 @@
-# curso-git
+# repositorio de venemt en el curso de git
 es un curso de git
 
 ## descripcion
